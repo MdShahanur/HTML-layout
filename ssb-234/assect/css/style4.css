@@ -1,0 +1,98 @@
+
+.article{
+    overflow: hidden;
+    }
+    .top_header{
+        overflow: hidden;
+    }
+.maincontent{
+    margin-top: 7px;
+
+}
+.header_logo{
+    background-color: rgb(4, 4, 121);
+    width: 30%;
+    height: 100px;
+    float: left;
+
+}
+.header_banner{
+    background-color: rgb(5, 56, 71);
+    width: 69.5%;
+    height: 100px;
+    float: right;
+
+}
+
+.bar{
+    background-color: brown;
+    height: 50px;
+    margin-top: 7px;
+}
+
+.left{
+    width: 20%;
+    height: 400px;
+    background-color: rgb(21, 74, 92);
+    float: left;
+
+}
+.middle{
+    width: 59%;
+    height: 400px;
+    background-color: darkgrey;
+    float: left;
+    margin-left: .5%;
+
+}
+.top{
+    height: 100px;
+    background-color: darkmagenta;
+
+}
+.center{
+    height: 200px;
+    background-color: blueviolet;
+
+    
+}
+.left_center{
+    width: 50%;
+    background-color: cyan;
+    height: 200px;
+    float: left;
+
+}
+.right_center{
+    width: 50%;
+    background-color: darkorange;
+    height: 200px;
+    float: right;
+   
+
+}
+.bottom{
+    height: 100px;
+    background-color: burlywood;
+
+}
+.right{
+
+    width: 20%;
+    height: 400px;
+    background-color: rgb(17, 76, 95);
+    float: right;
+}
+h1{
+    margin: 0;
+    text-align: center;
+    color: rgb(15, 1, 1);
+   
+}
+footer{
+    background-color: rgb(28, 100, 28);
+    height: 90px;
+    margin-top: 10px;
+    
+
+}
